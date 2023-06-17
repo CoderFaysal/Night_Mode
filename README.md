@@ -6,10 +6,10 @@
 ### Then
 
 ```
-Switch switcher;
-boolean nightMODE;
-SharedPreferences sharedPreferences;
-SharedPreferences.Editor editor;
+        Switch switcher;
+        boolean nightMODE;
+        SharedPreferences sharedPreferences;
+        SharedPreferences.Editor editor;
 ```
 
 ```
