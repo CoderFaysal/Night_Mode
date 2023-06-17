@@ -14,8 +14,7 @@
 
 ```
         switcher = view.findViewById(R.id.switcher);
-        share = view.findViewById(R.id.share);
-  
+        
         sharedPreferences = requireActivity().getSharedPreferences("MODE", Context.MODE_PRIVATE);
         nightMODE = sharedPreferences.getBoolean("night", false);
 
