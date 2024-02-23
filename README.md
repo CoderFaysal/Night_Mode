@@ -2,14 +2,14 @@
 
 ## First go to Theme and set Style
 
-theme.vml
+theme.xml
 ```
     <style name="TEXT">
         <item name="android:textColor">#000000</item>
     </style>
 ```
 
-theme.vml (night)
+theme.xml (night)
 ```
     <style name="TEXT">
         <item name="android:textColor">#FFFFFF</item>
