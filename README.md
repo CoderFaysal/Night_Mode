@@ -14,7 +14,7 @@ theme.vml (night)
     <style name="TEXT">
         <item name="android:textColor">#FFFFFF</item>
     </style>
-`
+````
 ## XML
 
 ```
