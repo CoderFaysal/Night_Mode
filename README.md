@@ -75,6 +75,8 @@ switch_mode.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListene
 });
 ```
 
+## Demo Image
+
 <img src="https://i.ytimg.com/vi/-qsHE3TpJqw/maxresdefault.jpg"/>
 
 © All Right Reserved By Coder Faysal
